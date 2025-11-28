@@ -99,7 +99,8 @@ Follow these steps to get a local copy up and running.
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+*![Uploading image.png…]()
+*
 
 ## 🤝 Contributing
 
@@ -118,5 +119,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ by Dhruv Sengar
+  Made by Dhruv Sengar
 </p>
