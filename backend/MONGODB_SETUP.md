@@ -43,7 +43,7 @@ Edit `d:\smartpark\.env`:
 ```env
 VITE_API_BASE=http://localhost:8000/api
 
-MONGODB_URI=mongodb+srv://smartpark:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/smartpark?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.example.mongodb.net/smartpark?retryWrites=true&w=majority
 JWT_SECRET=your-secret-key-change-in-production-2024
 ```
 

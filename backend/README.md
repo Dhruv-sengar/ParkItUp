@@ -82,7 +82,7 @@ Edit `.env` file in project root:
 
 ```env
 VITE_API_BASE=http://localhost:8000/api
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/smartpark
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/smartpark
 # OR for local: mongodb://localhost:27017
 JWT_SECRET=your-secret-key-change-in-production
 ```
